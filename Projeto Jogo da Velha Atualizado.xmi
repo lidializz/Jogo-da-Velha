@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI verified="false" xmi.version="1.2" timestamp="2010-11-14T19:28:05" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
+ <XMI.header>
+  <XMI.documentation>
+   <XMI.exporter>umbrello uml modeller http://uml.sf.net</XMI.exporter>
+   <XMI.exporterVersion>1.5.8</XMI.exporterVersion>
+   <XMI.exporterEncoding>UnicodeUTF8</XMI.exporterEncoding>
+  </XMI.documentation>
+  <XMI.metamodel xmi.version="1.3" href="UML.xml" xmi.name="UML"/>
+ </XMI.header>
+ <XMI.content>
+  <UML:Model isSpecification="false" isAbstract="false" isLeaf="false" xmi.id="m1" isRoot="false" name="UML Model">
+   <UML:Namespace.ownedElement>
+    <UML:Stereotype visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="folder" name="folder"/>
+    <UML:Stereotype visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="datatype" name="datatype"/>
+    <UML:Model stereotype="folder" visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Logical View" name="Logical View">
+     <UML:Namespace.ownedElement>
+      <UML:Package stereotype="folder" visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Datatypes" name="Datatypes">
+       <UML:Namespace.ownedElement>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="VuLnyYXKlgva" name="int"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="dvo2zoMjE7vN" name="char"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="MOtuapo6h9rg" name="bool"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="hNyQ3uyepkem" name="float"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Y1Vn6Q8Sn0LL" name="double"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="p9PVGH9vc7Jf" name="short"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="zFHmzvYWw2H2" name="long"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="QPTDPmXDtwi9" name="unsigned int"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Br2nyJQwYhiV" name="unsigned short"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="bF1XHIYhi1t7" name="unsigned long"/>
+        <UML:DataType stereotype="datatype" visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="nQKgK2nUrnFq" name="string"/>
+       </UML:Namespace.ownedElement>
+      </UML:Package>
+      <UML:Class visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="798YCoSgWlDM" name="Fronteira"/>
+      <UML:Class visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="H6impRqpAHMG" name="Controle"/>
+      <UML:Class visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="PtesjwTfSGuk" name="Entidade"/>
+      <UML:Class visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="e8q61jc0t5Gw" name="Menu_Jogo_Velha"/>
+     </UML:Namespace.ownedElement>
+     <XMI.extension xmi.extender="umbrello">
+      <diagrams>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar interface" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="HMIKFKsrGFGl" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="EQ6yxNeR3gvV" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="89" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="270" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="617" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="781" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="418" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="HMIKFKsrGFGl" width="125" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="e8q61jc0t5Gw" height="24" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="161" showstereotype="1" y="157" text="iu_selecionada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="95" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="G9fXYghlikkN" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="345" showstereotype="1" y="144" text="iu_selecionada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="95" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="G9fXYghlikkN" height="18"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="qFlAGIaDTJKt" operation="" linewidth="none" seqnum="menuPrincipal()" usesdiagramusefillcolor="1" x="123" showstereotype="1" y="105" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="192" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="M25Fq60bPZlh" height="70" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="142" showstereotype="1" y="87" text="menuPrincipal(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="112" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="qFlAGIaDTJKt" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="HMIKFKsrGFGl" textid="IIURRAuA8MvM" operation="" linewidth="none" seqnum="displayMenu()" usesdiagramusefillcolor="1" x="307" showstereotype="1" y="116" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="181" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="yZrhj5yHJPbb" height="47" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="344" showstereotype="1" y="98" text="displayMenu(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="101" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="IIURRAuA8MvM" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="selecionar_op_humano" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="gYiquiqBhqUR" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="125" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="320" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="544" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="751" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="617" showstereotype="1" y="143" text="tabuleiroVerificado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="120" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="8Mg36w11XJaC" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="404" showstereotype="1" y="156" text="tabuleiroVerificado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="120" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="8Mg36w11XJaC" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="390" showstereotype="1" y="244" text="finalPartidaVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="134" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="XBQmSlVuWkcg" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="620" showstereotype="1" y="232" text="finalPartidaVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="134" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="XBQmSlVuWkcg" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="202" showstereotype="1" y="251" text="jogadaRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="Tvl4Jazh0LOU" height="18"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="nA4nl7MlVjJ0" operation="" linewidth="none" seqnum="jogadorHumano()" usesdiagramusefillcolor="1" x="159" showstereotype="1" y="99" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="206" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="JAHUn0tXGxAz" height="171" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="197" showstereotype="1" y="81" text="jogadorHumano(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="122" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="nA4nl7MlVjJ0" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="HAP0g6Je1110" operation="" linewidth="none" seqnum="verificaTabuleiroCheio()" usesdiagramusefillcolor="1" x="357" showstereotype="1" y="118" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="231" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="inbD3WN3IW53" height="58" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="392" showstereotype="1" y="100" text="verificaTabuleiroCheio(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="156" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="HAP0g6Je1110" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="3CBXGEmQbm4i" operation="" linewidth="none" seqnum=" verificaTabuleiroOcupado()" usesdiagramusefillcolor="1" x="580" showstereotype="1" y="124" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="217" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="oY8lLnS8Of9t" height="37" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="603" showstereotype="1" y="106" text=" verificaTabuleiroOcupado(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="181" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="3CBXGEmQbm4i" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="Ap2Q2IX3q9tW" operation="" linewidth="none" seqnum="jogoTerminado()" usesdiagramusefillcolor="1" x="357" showstereotype="1" y="210" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="231" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="xze9G2m0nzSq" height="51" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="392" showstereotype="1" y="192" text="jogoTerminado(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="113" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="Ap2Q2IX3q9tW" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="UnLWBMogPfoG" operation="" linewidth="none" seqnum="fimJogo()" usesdiagramusefillcolor="1" x="580" showstereotype="1" y="218" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="217" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="Ekpqt5qf6edW" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="633" showstereotype="1" y="200" text="fimJogo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="72" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="UnLWBMogPfoG" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Jogar" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="0S0M7sCVMZ35" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="113" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="257" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="441" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="634" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="327" showstereotype="1" y="149" text="posicaoVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="112" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="TR55LRw3Nouu" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="327" showstereotype="1" y="231" text="posicaoVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="112" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="TR55LRw3Nouu" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="524" showstereotype="1" y="137" text="posicaoVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="112" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="TR55LRw3Nouu" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="514" showstereotype="1" y="228" text="posicaoVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="112" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="TR55LRw3Nouu" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="163" showstereotype="1" y="335" text="jogadaRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="M9NiC1NgqQVJ" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="524" showstereotype="1" y="324" text="jogadaRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="M9NiC1NgqQVJ" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="334" showstereotype="1" y="335" text="jogadaRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="M9NiC1NgqQVJ" height="18"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="nA4nl7MlVjJ0" operation="" linewidth="none" seqnum="jogar()" usesdiagramusefillcolor="1" x="147" showstereotype="1" y="98" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="155" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="JAHUn0tXGxAz" height="253" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="180" showstereotype="1" y="80" text="jogar(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="56" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="nA4nl7MlVjJ0" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="HAP0g6Je1110" operation="" linewidth="none" seqnum="validaJogada()" usesdiagramusefillcolor="1" x="294" showstereotype="1" y="113" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="191" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="inbD3WN3IW53" height="55" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="334" showstereotype="1" y="95" text="validaJogada(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="102" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="HAP0g6Je1110" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="3CBXGEmQbm4i" operation="" linewidth="none" seqnum="verificaPosicaoInvalida()" usesdiagramusefillcolor="1" x="477" showstereotype="1" y="120" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="203" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="oY8lLnS8Of9t" height="33" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="504" showstereotype="1" y="102" text="verificaPosicaoInvalida(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="161" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="3CBXGEmQbm4i" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="SCjQ7laehO03" operation="" linewidth="none" seqnum="posicaoOcupada()" usesdiagramusefillcolor="1" x="294" showstereotype="1" y="206" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="191" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="3z6nXIqziXYO" height="54" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="323" showstereotype="1" y="188" text="posicaoOcupada(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="125" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="SCjQ7laehO03" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="wTTxVnZ9nWpp" operation="" linewidth="none" seqnum="verificaPosicaoOcupada()" usesdiagramusefillcolor="1" x="477" showstereotype="1" y="212" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="203" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="iNrZacCn4MYt" height="35" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="486" showstereotype="1" y="194" text="verificaPosicaoOcupada(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="168" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="wTTxVnZ9nWpp" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="NcHSjygHiPnw" operation="" linewidth="none" seqnum="fazerJogada()" usesdiagramusefillcolor="1" x="294" showstereotype="1" y="300" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="191" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="AYcsdD8UHjtJ" height="54" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="345" showstereotype="1" y="282" text="fazerJogada(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="96" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="NcHSjygHiPnw" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="KVh4SLL8k94N" operation="" linewidth="none" seqnum="marcarJogada()" usesdiagramusefillcolor="1" x="477" showstereotype="1" y="310" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="203" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="mU3PfAtxtkGF" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="531" showstereotype="1" y="292" text="marcarJogada(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="110" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="KVh4SLL8k94N" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Iniciar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="4FJoe1VhmArU" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="182" showstereotype="1" y="168" text="jogo iniciado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="83" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="k3SAijBelPkG" height="18"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="109" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="263" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="423" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="574" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="wOnzfM3pvkBj" operation="" linewidth="none" seqnum="iniciar()" usesdiagramusefillcolor="1" x="143" showstereotype="1" y="108" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="165" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="lmuNmQECN2No" height="78" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="195" showstereotype="1" y="90" text="iniciar(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="62" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="wOnzfM3pvkBj" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar_op_robô" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="LNYuA2lCpMsc" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="92" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="261" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="451" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="656" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="327" showstereotype="1" y="155" text="tabuleiroVerificado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="120" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="xlbhsHHrUvxV" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="524" showstereotype="1" y="150" text="tabuleiroVerificado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="120" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="xlbhsHHrUvxV" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="322" showstereotype="1" y="237" text="finalPartidaVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="134" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="KOkb43te9xSy" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="516" showstereotype="1" y="233" text="finalPartidaVerificada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="134" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="KOkb43te9xSy" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="528" showstereotype="1" y="312" text="jogadaRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="B0kcrfHtRNnM" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="333" showstereotype="1" y="321" text="jogadaRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="KBQICNpj2Eal" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="527" showstereotype="1" y="404" text="jogadasAnalisadas" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="117" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="6cFWasgfd8bE" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="329" showstereotype="1" y="415" text="jogadasAnalisadas" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="117" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="WXxclz4sDwR0" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="141" showstereotype="1" y="440" text="jogadaRoboRealizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="132" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="kKVI0mrjJRXJ" height="18"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="QOeGNmk6dzZq" operation="" linewidth="none" seqnum="jogadorRobo()" usesdiagramusefillcolor="1" x="126" showstereotype="1" y="114" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="180" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="mLbt5d3dP6xB" height="345" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="157" showstereotype="1" y="96" text="jogadorRobo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="100" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="QOeGNmk6dzZq" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="RptKqJ4wNsen" operation="" linewidth="none" seqnum="verificaTabuleiroCheio()" usesdiagramusefillcolor="1" x="298" showstereotype="1" y="124" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="197" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="O2JUdI1RpI51" height="49" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="326" showstereotype="1" y="106" text="verificaTabuleiroCheio(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="156" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="RptKqJ4wNsen" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="AOEFKb5xMsEj" operation="" linewidth="none" seqnum="VerificaTabuleiroOcupado()" usesdiagramusefillcolor="1" x="487" showstereotype="1" y="135" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="215" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="9GE9g4Rl5qYw" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="512" showstereotype="1" y="117" text="VerificaTabuleiroOcupado(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="177" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="AOEFKb5xMsEj" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="vYvZojizJtEv" operation="" linewidth="none" seqnum="fimJogo()" usesdiagramusefillcolor="1" x="487" showstereotype="1" y="218" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="215" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="m2Y6L3dnwNJw" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="540" showstereotype="1" y="200" text="fimJogo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="72" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="vYvZojizJtEv" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="IN4sNbWN0kVL" operation="" linewidth="none" seqnum="jogoTerminado()" usesdiagramusefillcolor="1" x="298" showstereotype="1" y="205" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="197" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="E3fjhq0pW578" height="52" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="341" showstereotype="1" y="187" text="jogoTerminado(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="113" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="IN4sNbWN0kVL" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="8hCWETkoZNid" operation="" linewidth="none" seqnum="jogaRobo()" usesdiagramusefillcolor="1" x="298" showstereotype="1" y="285" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="197" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="5M6rUTwOiPUH" height="57" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="341" showstereotype="1" y="267" text="jogaRobo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="80" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="8hCWETkoZNid" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="ZxgnROZylFZO" operation="" linewidth="none" seqnum="jogadaRobo()" usesdiagramusefillcolor="1" x="487" showstereotype="1" y="297" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="215" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="ZOi3pcPY1tn9" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="540" showstereotype="1" y="279" text="jogadaRobo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="95" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="ZxgnROZylFZO" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="JyM5BFP8ZnZX" operation="" linewidth="none" seqnum="roboGanhou()" usesdiagramusefillcolor="1" x="298" showstereotype="1" y="378" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="197" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="bXHv3rYgLHQh" height="55" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="328" showstereotype="1" y="360" text="roboGanhou(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="100" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="JyM5BFP8ZnZX" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="uNGBfq1QScOp" operation="" linewidth="none" seqnum="roboVenceu()" usesdiagramusefillcolor="1" x="487" showstereotype="1" y="389" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="215" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="Didn9goF1mhT" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="540" showstereotype="1" y="371" text="roboVenceu(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="97" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="uNGBfq1QScOp" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Finalizar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="qWAWS9R2vDSs" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="172" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="325" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="475" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="611" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+        </widgets>
+        <messages/>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Reiniciar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="rrtl1xTRWd5o" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="158" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="325" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="472" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="611" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="232" showstereotype="1" y="148" text="menuPrincipal" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="94" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="tyIYhlQFRbAH" height="18"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="0pO89X1VyUo5" operation="" linewidth="none" seqnum="reiniciar()" usesdiagramusefillcolor="1" x="192" showstereotype="1" y="104" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="178" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="wmIKq4kZ4U0A" height="63" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="230" showstereotype="1" y="86" text="reiniciar(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="74" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="0pO89X1VyUo5" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar_nivel_jogo" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="xlYXurKmgMGx" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="rKvJUs6oLwcm" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="208" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="330" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="663" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="779" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
+         <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="482" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="xlYXurKmgMGx" width="125" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="e8q61jc0t5Gw" height="24" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="249" showstereotype="1" y="173" text="nivelSelecionado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="108" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="gcS3iDS2f8RV" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="403" showstereotype="1" y="163" text="nivelSelecionado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="108" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="gcS3iDS2f8RV" height="18"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="s7AbVjj32kTY" textid="MMql2G6zm6dT" operation="" linewidth="none" seqnum="nivelJogo()" usesdiagramusefillcolor="1" x="242" showstereotype="1" y="118" widgetaid="Zs8wojPY9aJ1" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="133" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="npIKj7eVnzkj" height="74" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="256" showstereotype="1" y="100" text="nivelJogo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="80" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="MMql2G6zm6dT" height="18"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="xlYXurKmgMGx" textid="Y49R0TB5lasp" operation="" linewidth="none" seqnum="displayNiveis()" usesdiagramusefillcolor="1" x="367" showstereotype="1" y="135" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="185" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="6WAj62aOyzbB" height="45" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="408" showstereotype="1" y="117" text="displayNiveis(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="103" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="Y49R0TB5lasp" height="18"/>
+         </messagewidget>
+        </messages>
+        <associations/>
+       </diagram>
+      </diagrams>
+     </XMI.extension>
+    </UML:Model>
+    <UML:Model stereotype="folder" visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Use Case View" name="Use Case View">
+     <UML:Namespace.ownedElement>
+      <UML:Actor visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="yEfR9OszJHO8" name="Jogador"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="kWQ4i3aYxJVG" comment="Sumário: O jogador selecionará uma interface &#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: não existe&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador seleciona o UI texto ou gráfica&#xa;   2. O jogador confirma a escolha&#xa;&#xa;Fluxo alternativo&#xa;   1.a O jogador seleciona a interface texto&#xa;   1.b O jogador seleciona a interface gráfica&#xa;&#xa;Fluxo exceção&#xa;   1.a O jogador escolheu opção errada&#xa;      1.a.1 O jogador selecionou opção inválida&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   O tipo de interface foi selecionada" name="Selecionar tipo de interface"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Vuj8LsXCsoRE" comment="Sumário: O jogador selecionará o oponente robô&#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: A interface deve estar selecionada&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador seleciona oponente robô&#xa;   2. O jogador confirma a escolha&#xa;&#xa;Fluxo alternativo: não existe&#xa;   &#xa;Fluxo exeção&#xa;   1.a O jogador escolhe a opção errada&#xa;      1.a.1 O jogador selecionou opção inválida&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   A opção oponente robô foi selecionada" name="Selecionar oponente robô"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="1dU4B0zUWGQy" comment="Sumário: O jogador selecionará o oponente humano&#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: A interface deve estar selecionada&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador seleciona oponente humano&#xa;   2. O jogador confirma a escolha&#xa;&#xa;Fluxo alternativo: não existe&#xa;   &#xa;Fluxo exceção&#xa;   1.a O jogador escolhe a opção errada&#xa;      1.a.1 O jogador selecionou opção inválida&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   A opção oponente humano foi selecionada" name="Selecionar oponente humano"/>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="R71o1vb1Ahgz" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="DX4Ye6IfPSmD" type="yEfR9OszJHO8" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="noxzSnsturgt" type="kWQ4i3aYxJVG" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="mHvuwbuA8yim" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="2yQRRAcEyXEQ" type="yEfR9OszJHO8" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="K4ICwy5gDybA" type="Vuj8LsXCsoRE" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="ZTIhPySRvqqM" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="0SYyxkNFndRj" type="1dU4B0zUWGQy" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="bUNmTwu0PAgo" type="yEfR9OszJHO8" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="8PHiGXgl6Xxx" comment="pode ou não ser nomeado" name="Nomear oponente robô"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="79hdoSjLPg99" comment="umário: O jogador selecionará o nível de dificuldade do robô&#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: A opção oponente robô deve estar selecionada&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador seleciona o nível do jogo que ele quer jogar&#xa;   2. O jogador confirma a escolha&#xa;&#xa;Fluxo alternativo:&#xa;      1.a O jogador seleciona o nível baixo&#xa;      1.b O jogador seleciona o nível médio&#xa;      1.c O jogador seleciona o nível alto&#xa;  &#xa;Fluxo exceção&#xa;   1.a O jogador escolhe a opção errada&#xa;      1.a.1 O jogador seleciona opção inválida&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   O nível de dificuldade do jogo foi selecionado" name="Selecionar nível do jogo"/>
+      <UML:Dependency visibility="public" isSpecification="false" namespace="Use Case View" supplier="Vuj8LsXCsoRE" xmi.id="16DK73jaAqHl" client="8PHiGXgl6Xxx" name="&lt;&lt;extends>>"/>
+      <UML:Dependency visibility="public" isSpecification="false" namespace="Use Case View" supplier="79hdoSjLPg99" xmi.id="upn4g2oIhIGk" client="Vuj8LsXCsoRE" name="&lt;&lt;include>>"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Vk3qg9ktrH6A" comment="Sumário: O jogador reiniciará uma partida&#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: Uma partida deve ter sido iniciada&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador seleciona a opção reiniciar partida&#xa;   2. O jogador confirma a escolha&#xa;   3. O sistema inicia uma nova partida&#xa;&#xa;Fluxo alternativo: não existe&#xa;   &#xa;Fluxo exceção&#xa;   1.a O jogador escolhe a opção errada&#xa;      1.a.1 O jogador selecionou opção inválida&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   A partida foi reiniciada" name="Reiniciar partida"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="6VB1mjjr0d16" comment="Sumário: O jogador iniciará a partida&#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: A interface e o oponente foram selecionados&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador seleciona a opção iniciar partida&#xa;   2. O jogador confirma a escolha&#xa;   3. O sistema irá limpar todas as posições do tabuleiro&#xa;   4. O sistema ira exibir a situação atual do tabuleiro&#xa;   5. O sistema irá permitir ao jogador jogar&#xa;&#xa;Fluxo alternativo: não existe&#xa;   &#xa;Fluxo exceção&#xa;   1.a O jogador escolhe a opção errada&#xa;      1.a.1 O jogador selecionou opção inválida&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   Uma nova partida foi iniciada" name="Iniciar partida"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="EsE6azQN5vW4" comment="Sumário: O jogador realizará uma jogada&#xa;&#xa;Ator primário: Jogador&#xa;&#xa;Ator secundário: não existe&#xa;&#xa;Pré-condição: A partida foi iniciada&#xa;&#xa;Fluxo principal: &#xa;   1. O jogador escolhe a posição onde ele quer jogar&#xa;   2. O jogador confirma a jogada&#xa;   3. O sistema exibe a situação atual do tabuleiro&#xa;&#xa;Fluxo alternativo&#xa;   2.a O jogo empatou&#xa;      2.a.1 O sistema detectou que não há mais alternativas&#xa;      2.a.2 O sistema exibe uma mensagem de alerta&#xa;      2.a.3 O sistema inicia uma nova partida&#xa;   2.b O jogador venceu&#xa;      2.b.1 O sistema detectou o jogador venceu&#xa;      2.b.2 O sistema exibe uma mensagem que o jogador venceu&#xa;      2.b.3 O sistema inicia uma nova partida&#xa;&#xa;Fluxo exceção&#xa;   1.a O jogador escolhe uma opção inexistente&#xa;      1.a.1 O jogador escolhe uma posição que não existe no tabuleiro&#xa;      1.a.2 O sistema exibe uma mensagem de erro&#xa;  1.b O jogador escolhe posiçào ocupada&#xa;      1.b.1 O jogador escolhe posição já ocupada no tabuleiro&#xa;      1.b.2 O sistema exibe uma mensagem de erro&#xa;&#xa;Pós-condição:&#xa;   A jogada foi realizada" name="Jogar"/>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="8fEa3EuaKn7p" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="4gEpKIqfr5Os" type="EsE6azQN5vW4" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="g2bUeIvky7Kz" type="yEfR9OszJHO8" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="22887jSkDj4s" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="BdB0TAsAOQBH" type="yEfR9OszJHO8" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="fmsFZYZcYhif" type="Vk3qg9ktrH6A" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="YnQbJBVxJpni" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="nPxzaglMzAot" type="yEfR9OszJHO8" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="zRCMuu9SgZ1z" type="6VB1mjjr0d16" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Dependency visibility="public" isSpecification="false" namespace="Use Case View" supplier="6VB1mjjr0d16" xmi.id="Iki57d3hJm1G" client="Vk3qg9ktrH6A" name=""/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use Case View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="c9bLUimyXbxA" name="Finalizar partida"/>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use Case View" xmi.id="VAx4Muh6yGOJ" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="BeeAOGmVs7yY" type="yEfR9OszJHO8" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="sw3RsDKNMHRi" type="c9bLUimyXbxA" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+     </UML:Namespace.ownedElement>
+     <XMI.extension xmi.extender="umbrello">
+      <diagrams>
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Jogo da Velha" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="571" canvaswidth="1053" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="xlRqvRPq1HCg" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
+        <widgets>
+         <actorwidget width="56" showstereotype="1" x="99" y="203" usesdiagramusefillcolor="1" usesdiagramfillcolor="1" isinstance="0" fillcolor="none" height="59" linecolor="none" xmi.id="yEfR9OszJHO8" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="198" showstereotype="1" x="223" y="123" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="kWQ4i3aYxJVG" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="185" showstereotype="1" x="317" y="219" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="Vuj8LsXCsoRE" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="210" showstereotype="1" x="25" y="354" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="1dU4B0zUWGQy" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="172" showstereotype="1" x="330" y="380" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="79hdoSjLPg99" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="123" showstereotype="1" x="229" y="18" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="Vk3qg9ktrH6A" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="106" showstereotype="1" x="1" y="19" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="6VB1mjjr0d16" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="70" showstereotype="1" x="7" y="136" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="EsE6azQN5vW4" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="122" showstereotype="1" x="227" y="305" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="c9bLUimyXbxA" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+        </widgets>
+        <messages/>
+        <associations>
+         <assocwidget indexa="1" indexb="1" widgetaid="yEfR9OszJHO8" linecolor="none" totalcounta="4" xmi.id="R71o1vb1Ahgz" widgetbid="kWQ4i3aYxJVG" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="155" starty="203"/>
+           <endpoint endx="223" endy="172"/>
+           <point x="209" y="179"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="2" indexb="1" widgetaid="yEfR9OszJHO8" linecolor="none" totalcounta="4" xmi.id="mHvuwbuA8yim" widgetbid="Vuj8LsXCsoRE" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="155" starty="235"/>
+           <endpoint endx="317" endy="235"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" indexb="1" widgetaid="1dU4B0zUWGQy" linecolor="none" totalcounta="2" xmi.id="ZTIhPySRvqqM" widgetbid="yEfR9OszJHO8" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="121" starty="354"/>
+           <endpoint endx="121" endy="262"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" indexb="1" widgetaid="Vuj8LsXCsoRE" linecolor="none" totalcounta="2" xmi.id="upn4g2oIhIGk" widgetbid="79hdoSjLPg99" totalcountb="2" type="502" linewidth="none">
+          <linepath>
+           <startpoint startx="413" starty="268"/>
+           <endpoint endx="413" endy="380"/>
+          </linepath>
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="412" showstereotype="1" y="304" text="&lt;&lt;include>>" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="703" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="I0OUJK5WxxY5" height="18"/>
+         </assocwidget>
+         <assocwidget indexa="1" indexb="1" widgetaid="EsE6azQN5vW4" linecolor="none" totalcounta="2" xmi.id="8fEa3EuaKn7p" widgetbid="yEfR9OszJHO8" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="77" starty="185"/>
+           <endpoint endx="99" endy="203"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="2" indexb="1" widgetaid="yEfR9OszJHO8" linecolor="none" totalcounta="3" xmi.id="22887jSkDj4s" widgetbid="Vk3qg9ktrH6A" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="155" starty="203"/>
+           <endpoint endx="229" endy="67"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" indexb="1" widgetaid="yEfR9OszJHO8" linecolor="none" totalcounta="3" xmi.id="YnQbJBVxJpni" widgetbid="6VB1mjjr0d16" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="99" starty="203"/>
+           <endpoint endx="99" endy="68"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" indexb="1" widgetaid="Vk3qg9ktrH6A" linecolor="none" totalcounta="2" xmi.id="Iki57d3hJm1G" widgetbid="6VB1mjjr0d16" totalcountb="2" type="502" linewidth="none">
+          <linepath>
+           <startpoint startx="229" starty="37"/>
+           <endpoint endx="107" endy="37"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="3" indexb="1" widgetaid="yEfR9OszJHO8" linecolor="none" totalcounta="4" xmi.id="VAx4Muh6yGOJ" widgetbid="c9bLUimyXbxA" totalcountb="2" type="503" linewidth="none">
+          <linepath>
+           <startpoint startx="155" starty="262"/>
+           <endpoint endx="227" endy="305"/>
+          </linepath>
+         </assocwidget>
+        </associations>
+       </diagram>
+      </diagrams>
+     </XMI.extension>
+    </UML:Model>
+    <UML:Model stereotype="folder" visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Component View" name="Component View">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model stereotype="folder" visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Deployment View" name="Deployment View">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model stereotype="folder" visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Entity Relationship Model" name="Entity Relationship Model">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+   </UML:Namespace.ownedElement>
+  </UML:Model>
+ </XMI.content>
+ <XMI.extensions xmi.extender="umbrello">
+  <docsettings viewid="rKvJUs6oLwcm" uniqueid="kKVI0mrjJRXJ" documentation=""/>
+  <listview>
+   <listitem open="1" type="800" id="Views">
+    <listitem open="1" type="801" id="Logical View">
+     <listitem open="0" type="810" id="qWAWS9R2vDSs" label="Finalizar_partida"/>
+     <listitem open="0" type="810" id="4FJoe1VhmArU" label="Iniciar_partida"/>
+     <listitem open="0" type="810" id="0S0M7sCVMZ35" label="Jogar"/>
+     <listitem open="0" type="810" id="rrtl1xTRWd5o" label="Reiniciar_partida"/>
+     <listitem open="0" type="810" id="EQ6yxNeR3gvV" label="Selecionar interface"/>
+     <listitem open="0" type="810" id="rKvJUs6oLwcm" label="Selecionar_nivel_jogo"/>
+     <listitem open="0" type="810" id="LNYuA2lCpMsc" label="Selecionar_op_robô"/>
+     <listitem open="0" type="810" id="gYiquiqBhqUR" label="selecionar_op_humano"/>
+     <listitem open="1" type="813" id="H6impRqpAHMG"/>
+     <listitem open="1" type="813" id="PtesjwTfSGuk"/>
+     <listitem open="1" type="813" id="798YCoSgWlDM"/>
+     <listitem open="1" type="813" id="e8q61jc0t5Gw"/>
+     <listitem open="0" type="830" id="Datatypes">
+      <listitem open="1" type="829" id="MOtuapo6h9rg"/>
+      <listitem open="1" type="829" id="dvo2zoMjE7vN"/>
+      <listitem open="1" type="829" id="Y1Vn6Q8Sn0LL"/>
+      <listitem open="1" type="829" id="hNyQ3uyepkem"/>
+      <listitem open="1" type="829" id="VuLnyYXKlgva"/>
+      <listitem open="1" type="829" id="zFHmzvYWw2H2"/>
+      <listitem open="1" type="829" id="p9PVGH9vc7Jf"/>
+      <listitem open="1" type="829" id="nQKgK2nUrnFq"/>
+      <listitem open="1" type="829" id="QPTDPmXDtwi9"/>
+      <listitem open="1" type="829" id="bF1XHIYhi1t7"/>
+      <listitem open="1" type="829" id="Br2nyJQwYhiV"/>
+     </listitem>
+    </listitem>
+    <listitem open="1" type="802" id="Use Case View">
+     <listitem open="0" type="805" id="xlRqvRPq1HCg" label="Jogo da Velha"/>
+     <listitem open="1" type="811" id="yEfR9OszJHO8"/>
+     <listitem open="1" type="812" id="c9bLUimyXbxA"/>
+     <listitem open="1" type="812" id="6VB1mjjr0d16"/>
+     <listitem open="1" type="812" id="EsE6azQN5vW4"/>
+     <listitem open="1" type="812" id="8PHiGXgl6Xxx"/>
+     <listitem open="1" type="812" id="Vk3qg9ktrH6A"/>
+     <listitem open="1" type="812" id="79hdoSjLPg99"/>
+     <listitem open="1" type="812" id="1dU4B0zUWGQy"/>
+     <listitem open="1" type="812" id="Vuj8LsXCsoRE"/>
+     <listitem open="1" type="812" id="kWQ4i3aYxJVG"/>
+    </listitem>
+    <listitem open="1" type="821" id="Component View"/>
+    <listitem open="1" type="827" id="Deployment View"/>
+    <listitem open="1" type="836" id="Entity Relationship Model"/>
+   </listitem>
+  </listview>
+  <codegeneration>
+   <codegenerator language="C++"/>
+  </codegeneration>
+ </XMI.extensions>
+</XMI>
