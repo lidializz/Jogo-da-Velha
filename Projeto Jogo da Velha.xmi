@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI verified="false" xmi.version="1.2" timestamp="2010-11-13T21:36:32" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
+<XMI verified="false" xmi.version="1.2" timestamp="2010-11-14T10:48:37" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller http://uml.sf.net</XMI.exporter>
@@ -37,7 +37,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar interface" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="HMIKFKsrGFGl" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="EQ6yxNeR3gvV" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar interface" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="HMIKFKsrGFGl" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="EQ6yxNeR3gvV" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="91" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="421" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
@@ -64,7 +64,7 @@
         </messages>
         <associations/>
        </diagram>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="selecionar_op_humano" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="gYiquiqBhqUR" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="selecionar_op_humano" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="gYiquiqBhqUR" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="125" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="325" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
@@ -87,7 +87,7 @@
         </messages>
         <associations/>
        </diagram>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Jogar" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="0S0M7sCVMZ35" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Jogar" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="0S0M7sCVMZ35" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="493" showstereotype="1" y="141" text="jogada realizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="105" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="KcmqhTjSt5Zj" height="18"/>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="333" showstereotype="1" y="151" text="jogada realizada" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="105" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="KcmqhTjSt5Zj" height="18"/>
@@ -110,7 +110,7 @@
         </messages>
         <associations/>
        </diagram>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Iniciar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="4FJoe1VhmArU" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Iniciar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="4FJoe1VhmArU" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="499" showstereotype="1" y="146" text="jogo iniciado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="83" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="k3SAijBelPkG" height="18"/>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="182" showstereotype="1" y="168" text="jogo iniciado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="83" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="k3SAijBelPkG" height="18"/>
@@ -133,13 +133,13 @@
         </messages>
         <associations/>
        </diagram>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar_op_robô" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="1" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="LNYuA2lCpMsc" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Selecionar_op_robô" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="1" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="LNYuA2lCpMsc" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="109" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="260" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="438" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Vauwb2TkIX3M" width="72" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="H6impRqpAHMG" height="24" drawasactor="0"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="647" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="ysrxO6pIcfGq" width="76" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="PtesjwTfSGuk" height="24" drawasactor="0"/>
-         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="175" showstereotype="1" y="95" text="jogadorRobo()" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="yFvZkiEehDZU" height="18"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="167" showstereotype="1" y="104" text="jogadorRobo()" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="yFvZkiEehDZU" height="18"/>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="326" showstereotype="1" y="169" text="tabuleiroVerificado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="120" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="3MlDyUhoOcGd" height="18"/>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="525" showstereotype="1" y="152" text="tabuleiroVerificado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="120" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="pvwjYQdd3p6m" height="18"/>
          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="545" showstereotype="1" y="251" text="jogoFinalizado" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="700" width="91" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="7edfiDE8EfM5" height="18"/>
@@ -162,8 +162,8 @@
          <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="7miKY08GLF0t" operation="" linewidth="none" seqnum="jogoTerminado()" usesdiagramusefillcolor="1" x="297" showstereotype="1" y="229" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="185" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="tew8XDI2FGF6" height="55" sequencemessagetype="1000">
           <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="343" showstereotype="1" y="211" text="jogoTerminado(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="113" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="7miKY08GLF0t" height="18"/>
          </messagewidget>
-         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="4Y53O01ncMvv" operation="" linewidth="none" seqnum="fimJogo()" usesdiagramusefillcolor="1" x="474" showstereotype="1" y="239" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="219" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="bwzEOBy9bwca" height="32" sequencemessagetype="1000">
-          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="560" showstereotype="1" y="221" text="fimJogo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="72" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="4Y53O01ncMvv" height="18"/>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="ysrxO6pIcfGq" textid="4Y53O01ncMvv" operation="" linewidth="none" seqnum="fimJogo()" usesdiagramusefillcolor="1" x="474" showstereotype="1" y="238" widgetaid="Vauwb2TkIX3M" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="219" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="bwzEOBy9bwca" height="32" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="560" showstereotype="1" y="220" text="fimJogo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="72" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="4Y53O01ncMvv" height="18"/>
          </messagewidget>
          <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="Vauwb2TkIX3M" textid="O1GJZnZ8MdHG" operation="" linewidth="none" seqnum="jogaRobo()" usesdiagramusefillcolor="1" x="297" showstereotype="1" y="325" widgetaid="s7AbVjj32kTY" font="Sans Serif,9,-1,0,50,0,0,0,0,0" width="185" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="T5AhGkIbH3Wl" height="52" sequencemessagetype="1000">
           <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="353" showstereotype="1" y="307" text="jogaRobo(): " font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="704" width="80" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="O1GJZnZ8MdHG" height="18"/>
@@ -180,7 +180,7 @@
         </messages>
         <associations/>
        </diagram>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Finalizar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="qWAWS9R2vDSs" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Finalizar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="qWAWS9R2vDSs" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="172" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="325" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
@@ -190,7 +190,7 @@
         <messages/>
         <associations/>
        </diagram>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Reiniciar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="rrtl1xTRWd5o" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Reiniciar_partida" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="rrtl1xTRWd5o" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
         <widgets>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="172" decon="0" showstereotype="1" y="21" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="Zs8wojPY9aJ1" width="68" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="yEfR9OszJHO8" height="59" drawasactor="1"/>
          <objectwidget linecolor="#ff0000" usesdiagramfillcolor="0" linewidth="none" usesdiagramusefillcolor="1" instancename="" x="325" decon="0" showstereotype="1" y="48" font="Sans Serif,9,-1,0,50,0,1,0,0,0" localid="s7AbVjj32kTY" width="75" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="#ffff00" xmi.id="798YCoSgWlDM" height="24" drawasactor="0"/>
@@ -263,7 +263,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams>
-       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Jogo da Velha" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="573" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="xlRqvRPq1HCg" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="10" showattribassocs="1" snapy="10" linewidth="0" showattsig="1" showpubliconly="1" showpackage="1" showstereotype="1" name="Jogo da Velha" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="579" canvaswidth="1066" localid="" snapcsgrid="0" showgrid="0" showops="1" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="xlRqvRPq1HCg" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
         <widgets>
          <actorwidget width="56" showstereotype="1" x="99" y="203" usesdiagramusefillcolor="1" usesdiagramfillcolor="1" isinstance="0" fillcolor="none" height="59" linecolor="none" xmi.id="yEfR9OszJHO8" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
          <usecasewidget width="198" showstereotype="1" x="223" y="123" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#c0c0ff" height="49" linecolor="none" xmi.id="kWQ4i3aYxJVG" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
@@ -301,7 +301,7 @@
            <startpoint startx="413" starty="268"/>
            <endpoint endx="413" endy="380"/>
           </linepath>
-          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="412" showstereotype="1" y="304" text="&lt;&lt;include>>" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="703" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="bJR8VNCuVG2A" height="18"/>
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="412" showstereotype="1" y="304" text="&lt;&lt;include>>" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="703" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="UOycWyV7iHH3" height="18"/>
          </assocwidget>
          <assocwidget indexa="1" indexb="1" widgetaid="EsE6azQN5vW4" linecolor="none" totalcounta="2" xmi.id="8fEa3EuaKn7p" widgetbid="yEfR9OszJHO8" totalcountb="2" type="503" linewidth="none">
           <linepath>
@@ -351,7 +351,7 @@
   </UML:Model>
  </XMI.content>
  <XMI.extensions xmi.extender="umbrello">
-  <docsettings viewid="LNYuA2lCpMsc" uniqueid="PpqhZ8fI4WXC" documentation=""/>
+  <docsettings viewid="LNYuA2lCpMsc" uniqueid="GseqMbMTHbkL" documentation=""/>
   <listview>
    <listitem open="1" type="800" id="Views">
     <listitem open="1" type="801" id="Logical View">
