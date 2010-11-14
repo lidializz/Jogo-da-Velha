@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI verified="false" xmi.version="1.2" timestamp="2010-11-12T14:47:31" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
+<XMI verified="false" xmi.version="1.2" timestamp="2010-11-13T21:49:21" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller http://uml.sf.net</XMI.exporter>
@@ -233,8 +233,8 @@
          <usecasewidget width="185" showstereotype="1" x="317" y="219" usesdiagramusefillcolor="1" usesdiagramfillcolor="1" isinstance="0" fillcolor="none" height="49" linecolor="none" xmi.id="Vuj8LsXCsoRE" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
          <usecasewidget width="210" showstereotype="1" x="25" y="354" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#c0c0ff" height="49" linecolor="none" xmi.id="1dU4B0zUWGQy" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
          <usecasewidget width="172" showstereotype="1" x="330" y="380" usesdiagramusefillcolor="1" usesdiagramfillcolor="1" isinstance="0" fillcolor="none" height="49" linecolor="none" xmi.id="79hdoSjLPg99" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
-         <usecasewidget width="123" showstereotype="1" x="229" y="18" usesdiagramusefillcolor="1" usesdiagramfillcolor="1" isinstance="0" fillcolor="none" height="49" linecolor="none" xmi.id="Vk3qg9ktrH6A" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
-         <usecasewidget width="106" showstereotype="1" x="1" y="19" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#c0c0ff" height="49" linecolor="none" xmi.id="6VB1mjjr0d16" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="123" showstereotype="1" x="229" y="18" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="Vk3qg9ktrH6A" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="106" showstereotype="1" x="1" y="19" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#00ff00" height="49" linecolor="none" xmi.id="6VB1mjjr0d16" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
          <usecasewidget width="70" showstereotype="1" x="7" y="136" usesdiagramusefillcolor="1" usesdiagramfillcolor="0" isinstance="0" fillcolor="#c0c0ff" height="49" linecolor="none" xmi.id="EsE6azQN5vW4" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
          <usecasewidget width="122" showstereotype="1" x="227" y="305" usesdiagramusefillcolor="1" usesdiagramfillcolor="1" isinstance="0" fillcolor="none" height="49" linecolor="none" xmi.id="c9bLUimyXbxA" usefillcolor="1" linewidth="none" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
         </widgets>
@@ -264,7 +264,7 @@
            <startpoint startx="413" starty="268"/>
            <endpoint endx="413" endy="380"/>
           </linepath>
-          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="412" showstereotype="1" y="304" text="&lt;&lt;include>>" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="703" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="l7FebYdylbSq" height="18"/>
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" usesdiagramusefillcolor="1" x="412" showstereotype="1" y="304" text="&lt;&lt;include>>" font="Sans Serif,9,-1,0,50,0,0,0,0,0" pretext="" role="703" width="92" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="0BkRbGKgOl2w" height="18"/>
          </assocwidget>
          <assocwidget indexa="1" indexb="1" widgetaid="EsE6azQN5vW4" linecolor="none" totalcounta="2" xmi.id="8fEa3EuaKn7p" widgetbid="yEfR9OszJHO8" totalcountb="2" type="503" linewidth="none">
           <linepath>
@@ -314,7 +314,7 @@
   </UML:Model>
  </XMI.content>
  <XMI.extensions xmi.extender="umbrello">
-  <docsettings viewid="xlRqvRPq1HCg" uniqueid="K5Pahz8KxrtP" documentation=""/>
+  <docsettings viewid="LNYuA2lCpMsc" uniqueid="xnfW3xBPgDLW" documentation=""/>
   <listview>
    <listitem open="1" type="800" id="Views">
     <listitem open="1" type="801" id="Logical View">
